@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Omen Theme"
+            }
+        ],
+        "Category": "",
+        "Description": "OMEN Dark Plasma style",
+        "EnabledByDefault": true,
+        "Id": "OmenDark",
+        "License": "LGPL",
+        "Name": "OmenDark",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API": "5.0"
+}

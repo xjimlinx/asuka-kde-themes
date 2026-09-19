@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Omen Theme"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Asuka",
+        "Description": "Asuka / Unit 02: warm dark surfaces, scarlet and amber",
+        "Id": "com.omen.asuka",
+        "Version": "1.0.0",
+        "License": "GPL 3+",
+        "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+        "X-Plasma-APIVersion": "2",
+        "Name[zh_CN]": "明日香 · 二号机"
+    }
+}

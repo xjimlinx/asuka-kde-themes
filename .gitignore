@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+*~
+*.bak
+
+# Local diagnostics are not part of the published theme previews.
+previews/*-live-window.png
+previews/*-shadow-check.png
+
+# Legacy OMEN release binaries; source assets are build dependencies.
+OmenDark.tar.gz
+dist/OmenDark*

@@ -1,0 +1,2 @@
+# Preserve upstream source snapshots byte-for-byte.
+sources/** whitespace=-blank-at-eol,-blank-at-eof

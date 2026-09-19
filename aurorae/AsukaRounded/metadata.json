@@ -1,0 +1,25 @@
+{
+    "KPackageStructure": "KWin/Aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Omen Theme"
+            },
+            {
+                "Name": "jomada",
+                "Task": "Original Nothing window frame and shadows"
+            }
+        ],
+        "Category": "Plasma Window Decorations",
+        "ServiceTypes": [
+            "aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Asuka",
+        "Description": "Asuka window decoration: circular window controls, subtle rounded corners and scarlet accent",
+        "Id": "AsukaRounded",
+        "Version": "1.0.0",
+        "License": "GPL_V3",
+        "Name[zh_CN]": "明日香 · 二号机"
+    }
+}

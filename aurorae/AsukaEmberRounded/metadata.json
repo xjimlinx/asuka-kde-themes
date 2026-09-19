@@ -1,0 +1,25 @@
+{
+    "KPackageStructure": "KWin/Aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Omen Theme"
+            },
+            {
+                "Name": "jomada",
+                "Task": "Original Nothing window frame and shadows"
+            }
+        ],
+        "Category": "Plasma Window Decorations",
+        "ServiceTypes": [
+            "aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "AsukaEmber",
+        "Description": "Asuka Ember: image-inspired oxblood, vermilion, copper and teal",
+        "Id": "AsukaEmberRounded",
+        "Version": "1.0.0",
+        "License": "GPL_V3",
+        "Name[zh_CN]": "明日香 · 余烬"
+    }
+}

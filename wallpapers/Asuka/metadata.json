@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Wallpaper/Images",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Omen Theme"
+            }
+        ],
+        "Category": "",
+        "Description": "Asuka / Unit 02 geometric wallpaper",
+        "EnabledByDefault": true,
+        "Id": "Asuka",
+        "License": "GPL 3+",
+        "Name": "Asuka",
+        "Version": "1.0.0",
+        "Name[zh_CN]": "明日香 · 二号机"
+    },
+    "X-Plasma-API": "org.kde.image",
+    "X-Plasma-APIVersion": "2",
+    "X-KDE-PlasmaImageWallpaper-AccentColor": "#D9443F"
+}

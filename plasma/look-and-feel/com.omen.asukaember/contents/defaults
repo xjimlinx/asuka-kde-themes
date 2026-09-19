@@ -1,0 +1,16 @@
+[kdeglobals][KDE]
+widgetStyle=Breeze
+
+[kdeglobals][General]
+ColorScheme=AsukaEmber
+AccentColor=198,80,54
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__AsukaEmberRounded
+
+[plasmarc][Theme]
+name=AsukaEmber
+
+[Wallpaper]
+Image=AsukaEmber

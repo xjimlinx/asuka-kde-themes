@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Omen Theme"
+            }
+        ],
+        "Category": "Plasma Window Decorations",
+        "ServiceTypes": [
+            "aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "OmenDark",
+        "Description": "OMEN Dark window decoration with red accent",
+        "Id": "OmenDark",
+        "Version": "1.0.0",
+        "License": "GPL_V3"
+    }
+}

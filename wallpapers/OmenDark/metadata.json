@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Omen Theme"
+            }
+        ],
+        "Category": "",
+        "Description": "OMEN Dark wallpaper: dark surfaces with a red angular accent",
+        "EnabledByDefault": true,
+        "Id": "OmenDark",
+        "License": "GPL 3+",
+        "Name": "OmenDark",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API": "org.kde.image",
+    "X-Plasma-APIVersion": "2"
+}

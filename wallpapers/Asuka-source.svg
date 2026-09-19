@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 1920 1080">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#211A1E"/><stop offset="1" stop-color="#100F13"/></linearGradient>
+<linearGradient id="armor" x2="1" y2="1"><stop stop-color="#E65143"/><stop offset=".5" stop-color="#B82E36"/><stop offset="1" stop-color="#67212D"/></linearGradient>
+<pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse"><path d="M72 0H0V72" fill="none" stroke="#F5EDE4" stroke-opacity=".025"/></pattern></defs>
+<rect width="1920" height="1080" fill="url(#bg)"/><rect width="1920" height="1080" fill="url(#grid)"/>
+<path d="M1390 -100H1840L1330 1180H880Z" fill="#361D26"/>
+<path d="M1490 -100H1980L1470 1180H980Z" fill="url(#armor)"/>
+<path d="M1490 -100H1510L1000 1180H980Z" fill="#FF8267"/>
+<path d="M1760 -100H1806L1296 1180H1250Z" fill="#211A1E"/>
+<path d="M1830 -100H1842L1332 1180H1320Z" fill="#F4BD70"/>
+<path d="M1250 260L1310 110H1550L1490 260Z" fill="#211A1E"/>
+<path d="M1293 228L1328 141H1360L1325 228Z" fill="#83BCE8"/>
+<path d="M1345 228L1380 141H1412L1377 228Z" fill="#83BCE8"/>
+<path d="M1397 228L1432 141H1464L1429 228Z" fill="#F4BD70"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#FFF5E8"><text x="1310" y="670" font-size="250" font-weight="bold" letter-spacing="-16">02</text>
+<text x="1360" y="735" font-size="22" letter-spacing="8">ASUKA</text></g>
+<path d="M1370 786H1680L1655 810H1370Z" fill="#211A1E"/>
+<path d="M1382 793H1450V800H1382ZM1462 793H1530V800H1462ZM1542 793H1610V800H1542Z" fill="#F4BD70"/>
+<path d="M100 160V100H160M1760 980H1820V920" fill="none" stroke="#A48679" stroke-width="2"/>
+<g font-family="DejaVu Sans, sans-serif"><text x="104" y="912" fill="#F5EDE4" font-size="18" letter-spacing="6">ASUKA / UNIT 02</text>
+<text x="104" y="944" fill="#AC979C" font-size="11" letter-spacing="3">SECOND CHILD · SCARLET EDITION</text></g>
+<path d="M104 864H168" stroke="#D9443F" stroke-width="4"/><path d="M178 864H206" stroke="#F4BD70" stroke-width="4"/>
+</svg>

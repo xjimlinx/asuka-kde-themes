@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Omen Theme"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "OmenDark",
+        "Description": "OMEN Dark desktop: colors, plasma style, window decoration and wallpaper",
+        "Id": "com.omen.dark",
+        "Version": "1.0.0",
+        "License": "GPL 3+",
+        "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+        "X-Plasma-APIVersion": "2"
+    }
+}

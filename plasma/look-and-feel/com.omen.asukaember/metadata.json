@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Omen Theme"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "AsukaEmber",
+        "Description": "Asuka Ember: image-inspired oxblood, vermilion, copper and teal",
+        "Id": "com.omen.asukaember",
+        "Version": "1.0.0",
+        "License": "GPL 3+",
+        "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+        "X-Plasma-APIVersion": "2",
+        "Name[zh_CN]": "明日香 · 余烬"
+    }
+}

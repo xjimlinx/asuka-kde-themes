@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Wallpaper/Images",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Omen Theme"
+            }
+        ],
+        "Category": "",
+        "Description": "Asuka Ember: image-inspired oxblood, vermilion, copper and teal",
+        "EnabledByDefault": true,
+        "Id": "AsukaEmber",
+        "License": "GPL 3+",
+        "Name": "AsukaEmber",
+        "Version": "1.0.0",
+        "Name[zh_CN]": "明日香 · 余烬"
+    },
+    "X-Plasma-API": "org.kde.image",
+    "X-Plasma-APIVersion": "2",
+    "X-KDE-PlasmaImageWallpaper-AccentColor": "#C65036"
+}

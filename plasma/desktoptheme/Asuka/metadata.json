@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Omen Theme"
+            }
+        ],
+        "Category": "",
+        "Description": "Asuka warm dark Plasma style",
+        "EnabledByDefault": true,
+        "Id": "Asuka",
+        "License": "LGPL",
+        "Name": "Asuka",
+        "Version": "1.0.0",
+        "Name[zh_CN]": "明日香 · 二号机"
+    },
+    "X-Plasma-API": "5.0",
+    "KPackageStructure": "Plasma/Theme"
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- OMEN Dark wallpaper master (vector). Render to PNG for the KDE wallpaper package. -->
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   id="omen-wallpaper">
+  <defs
+     id="defs">
+    <linearGradient
+       id="bg-grad"
+       gradientUnits="userSpaceOnUse"
+       x1="0" y1="0" x2="3840" y2="2160">
+      <stop offset="0" style="stop-color:#121216;stop-opacity:1" />
+      <stop offset="0.55" style="stop-color:#0C0C0F;stop-opacity:1" />
+      <stop offset="1" style="stop-color:#060607;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       id="red-glow"
+       gradientUnits="userSpaceOnUse"
+       cx="650" cy="520" r="1500">
+      <stop offset="0" style="stop-color:#E31937;stop-opacity:0.22" />
+      <stop offset="0.45" style="stop-color:#E31937;stop-opacity:0.07" />
+      <stop offset="1" style="stop-color:#E31937;stop-opacity:0" />
+    </radialGradient>
+    <linearGradient
+       id="band-grad"
+       gradientUnits="userSpaceOnUse"
+       x1="2300" y1="2160" x2="3840" y2="1380">
+      <stop offset="0" style="stop-color:#E31937;stop-opacity:0.28" />
+      <stop offset="1" style="stop-color:#E31937;stop-opacity:0.02" />
+    </linearGradient>
+    <linearGradient
+       id="bottom-fade"
+       gradientUnits="userSpaceOnUse"
+       x1="0" y1="1880" x2="0" y2="2160">
+      <stop offset="0" style="stop-color:#E31937;stop-opacity:0" />
+      <stop offset="1" style="stop-color:#E31937;stop-opacity:0.16" />
+    </linearGradient>
+    <radialGradient
+       id="vignette"
+       gradientUnits="userSpaceOnUse"
+       cx="1920" cy="1080" r="2000">
+      <stop offset="0.55" style="stop-color:#000000;stop-opacity:0" />
+      <stop offset="1" style="stop-color:#000000;stop-opacity:0.5" />
+    </radialGradient>
+    <pattern
+       id="diamond-grid"
+       width="320"
+       height="320"
+       patternUnits="userSpaceOnUse">
+      <path d="M 160 16 L 304 160 L 160 304 L 16 160 Z"
+            style="fill:none;stroke:#E31937;stroke-width:3;stroke-opacity:0.10" />
+      <circle cx="160" cy="160" r="6" style="fill:#E31937;fill-opacity:0.16" />
+    </pattern>
+  </defs>
+
+  <!-- Base gradient -->
+  <rect x="0" y="0" width="3840" height="2160" style="fill:url(#bg-grad)" />
+
+  <!-- Red ambience, upper-left -->
+  <rect x="0" y="0" width="3840" height="2160" style="fill:url(#red-glow)" />
+
+  <!-- Subtle diamond lattice -->
+  <rect x="0" y="0" width="3840" height="2160" style="fill:url(#diamond-grid);opacity:0.55" />
+
+  <!-- Angular OMEN accent, lower right -->
+  <polygon points="2160,2160 3840,2160 3840,1290"
+           style="fill:url(#band-grad);stroke:none" />
+  <path d="M 2240 2160 L 3840 1360"
+        style="fill:none;stroke:#E31937;stroke-width:14;stroke-linecap:round" />
+  <path d="M 2460 2160 L 3840 1700"
+        style="fill:none;stroke:#FF4D5C;stroke-width:5;stroke-linecap:round" />
+  <path d="M 2620 2160 L 3840 1900"
+        style="fill:none;stroke:#F2F2F4;stroke-width:3;stroke-linecap:round;opacity:0.22" />
+
+  <!-- Accent bar along the bottom edge -->
+  <rect x="0" y="2120" width="3840" height="40" style="fill:url(#bottom-fade)" />
+  <rect x="0" y="2148" width="3840" height="3" style="fill:#E31937;opacity:0.9" />
+  <rect x="0" y="2152" width="3840" height="1" style="fill:#FF4D5C;opacity:0.45" />
+
+  <!-- Vignette -->
+  <rect x="0" y="0" width="3840" height="2160" style="fill:url(#vignette)" />
+</svg>

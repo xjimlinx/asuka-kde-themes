@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Omen Theme"
+            }
+        ],
+        "Category": "",
+        "Description": "Asuka Ember: image-inspired oxblood, vermilion, copper and teal",
+        "EnabledByDefault": true,
+        "Id": "AsukaEmber",
+        "License": "LGPL",
+        "Name": "AsukaEmber",
+        "Version": "1.0.0",
+        "Name[zh_CN]": "明日香 · 余烬"
+    },
+    "X-Plasma-API": "5.0",
+    "KPackageStructure": "Plasma/Theme"
+}

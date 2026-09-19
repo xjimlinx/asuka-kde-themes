@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   id="omen-help">
+  <g
+     id="active-center">
+    <rect x="0" y="0" width="100" height="100" style="fill:none" />
+    <circle cx="50" cy="36" r="13"
+            style="fill:none;stroke:#D9D9DE;stroke-width:7" />
+    <path d="M 50 49 L 50 57"
+          style="fill:none;stroke:#D9D9DE;stroke-width:7;stroke-linecap:round" />
+    <circle cx="50" cy="68" r="4" style="fill:#D9D9DE" />
+  </g>
+  <g
+     id="hover-center">
+    <rect x="0" y="0" width="100" height="100" style="fill:none" />
+    <circle cx="50" cy="36" r="13"
+            style="fill:none;stroke:#E31937;stroke-width:7" />
+    <path d="M 50 49 L 50 57"
+          style="fill:none;stroke:#E31937;stroke-width:7;stroke-linecap:round" />
+    <circle cx="50" cy="68" r="4" style="fill:#E31937" />
+  </g>
+  <g
+     id="pressed-center">
+    <rect x="0" y="0" width="100" height="100" style="fill:none" />
+    <circle cx="50" cy="36" r="13"
+            style="fill:none;stroke:#C8102E;stroke-width:7" />
+    <path d="M 50 49 L 50 57"
+          style="fill:none;stroke:#C8102E;stroke-width:7;stroke-linecap:round" />
+    <circle cx="50" cy="68" r="4" style="fill:#C8102E" />
+  </g>
+  <g
+     id="inactive-center">
+    <rect x="0" y="0" width="100" height="100" style="fill:none" />
+    <circle cx="50" cy="36" r="13"
+            style="fill:none;stroke:#8A8A93;stroke-width:7" />
+    <path d="M 50 49 L 50 57"
+          style="fill:none;stroke:#8A8A93;stroke-width:7;stroke-linecap:round" />
+    <circle cx="50" cy="68" r="4" style="fill:#8A8A93" />
+  </g>
+  <g
+     id="deactivated-center">
+    <rect x="0" y="0" width="100" height="100" style="fill:none" />
+    <circle cx="50" cy="36" r="13"
+            style="fill:none;stroke:#55555E;stroke-width:7;opacity:0.55" />
+    <path d="M 50 49 L 50 57"
+          style="fill:none;stroke:#55555E;stroke-width:7;stroke-linecap:round;opacity:0.55" />
+    <circle cx="50" cy="68" r="4" style="fill:#55555E;opacity:0.55" />
+  </g>
+</svg>

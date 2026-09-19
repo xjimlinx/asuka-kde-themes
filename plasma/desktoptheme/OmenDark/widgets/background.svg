@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="omen-panel-background">
+  <defs
+     id="defs">
+    <linearGradient
+       id="panel-shadow"
+       gradientUnits="userSpaceOnUse"
+       x1="0" y1="0" x2="0" y2="6">
+      <stop offset="0" style="stop-color:#000000;stop-opacity:0.22" />
+      <stop offset="1" style="stop-color:#000000;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+
+  <!-- OMEN red accent line on the top edge of the panel -->
+  <rect
+     id="top"
+     x="0" y="0" width="48" height="2"
+     style="fill:#E31937;fill-opacity:1;stroke:none" />
+
+  <!-- Soft shadow just below the top accent -->
+  <rect
+     id="top-2"
+     x="0" y="2" width="48" height="6"
+     style="fill:url(#panel-shadow);fill-opacity:1;stroke:none" />
+
+  <!-- Panel surface -->
+  <rect
+     id="center"
+     x="0" y="2" width="48" height="46"
+     style="fill:#141416;fill-opacity:1;stroke:none" />
+
+  <!-- Zero-size sides and corners: the panel is flat, only the accent line is drawn -->
+  <rect id="left" x="0" y="0" width="0" height="48" style="fill:none" />
+  <rect id="right" x="48" y="0" width="0" height="48" style="fill:none" />
+  <rect id="bottom" x="0" y="48" width="48" height="0" style="fill:none" />
+  <rect id="topleft" x="0" y="0" width="0" height="0" style="fill:none" />
+  <rect id="topright" x="48" y="0" width="0" height="0" style="fill:none" />
+  <rect id="bottomleft" x="0" y="48" width="0" height="0" style="fill:none" />
+  <rect id="bottomright" x="48" y="48" width="0" height="0" style="fill:none" />
+
+  <!-- Margin hints: only the top border participates in the frame -->
+  <rect id="hint-top-margin" x="0" y="0" width="48" height="2" style="fill:none" />
+  <rect id="hint-bottom-margin" x="0" y="48" width="48" height="0" style="fill:none" />
+  <rect id="hint-left-margin" x="0" y="0" width="0" height="48" style="fill:none" />
+  <rect id="hint-right-margin" x="48" y="0" width="0" height="48" style="fill:none" />
+  <rect id="hint-top-inset" x="0" y="0" width="48" height="0" style="fill:none" />
+  <rect id="hint-bottom-inset" x="0" y="48" width="48" height="0" style="fill:none" />
+  <rect id="hint-left-inset" x="0" y="0" width="0" height="48" style="fill:none" />
+  <rect id="hint-right-inset" x="48" y="0" width="0" height="48" style="fill:none" />
+</svg>
